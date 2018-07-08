@@ -1,7 +1,7 @@
-import os
+import sys
 
-def main():
-	print('Hello World')
+def main(arguments):
+	print('Hello {}'.format(arguments[1]))
 
 if __name__ == '__main__':
-	main()
+	main(sys.argv)
