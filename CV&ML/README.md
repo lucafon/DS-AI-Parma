@@ -19,5 +19,8 @@ sudo yum install python-pip python-wheel
 `sudo yum install java-1.8.0-openjdk-devel`
 
 * mxnet
+
+`sudo pip install mxnet`
+ 
 * h2o
-sudo pip install h2o
+`sudo pip install h2o`
