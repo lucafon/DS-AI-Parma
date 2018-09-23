@@ -23,4 +23,5 @@ sudo yum install python-pip python-wheel
 `sudo pip install mxnet`
  
 * h2o
+
 `sudo pip install h2o`
