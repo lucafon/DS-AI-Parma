@@ -25,3 +25,12 @@ sudo yum install python-pip python-wheel
 * h2o
 
 `sudo pip install h2o`
+
+* tensorflow
+
+`sudo pip install tensorflow`
+
+* keras
+
+`sudo pip install keras`
+
