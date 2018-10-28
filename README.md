@@ -10,4 +10,4 @@ The group aims to spread useful information about DS and AI, in order to share t
 ## Previous events
 * DS&AI Parma @FabLab, March ‘18
 * DS&AI Parma @Caffeina, July ‘18
-* Machine Learning Codelab @Fablab, October ‘18
+* Machine Learning Codelab Parma @Fablab, October ‘18
