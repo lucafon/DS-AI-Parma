@@ -14,7 +14,18 @@ The group aims to spread useful information about DS and AI, in order to share t
 
 ## Contributors
 
-Luca Fontanili
-![alt text][luca]
+<img src="https://media.licdn.com/dms/image/C5103AQGlN1UThcLQag/profile-displayphoto-shrink_800_800/0?e=1546473600&v=beta&t=lfqJcs4jxf7G5XoRUcRMW6RHPsPpXIMazCwiG1aYeGk"  width="120" height="120">
 
-[luca]: https://media.licdn.com/dms/image/C5103AQGt1mF8rwskiQ/profile-displayphoto-shrink_200_200/0?e=1546473600&v=beta&t=RkaXaUDY2Gzs7_yVX7oaV8MopmrRlMSiBmC4ETQ2eoU "Luca Fontanili"
+Sergey Antopolskiy, [Data scientist with background in neuroscience](https://www.linkedin.com/in/antop/)
+
+<img src="https://media.licdn.com/dms/image/C5103AQGt1mF8rwskiQ/profile-displayphoto-shrink_200_200/0?e=1546473600&v=beta&t=RkaXaUDY2Gzs7_yVX7oaV8MopmrRlMSiBmC4ETQ2eoU"  width="120" height="120">
+
+Luca Fontanili, [Computer Engineer](https://www.linkedin.com/in/luca-fontanili/)
+
+<img src="https://media.licdn.com/dms/image/C4D03AQFd-67heVQ7xA/profile-displayphoto-shrink_800_800/0?e=1546473600&v=beta&t=ZQ1QC9QsgbbDCsqH2Mh5PDZ-IrlKfIUn6kwIYpNvJJs"  width="120" height="120">
+
+Andrea Pedretti, [Data Scientist](https://www.linkedin.com/in/andrea-pedretti-4707221a/)
+
+<img src="https://media.licdn.com/dms/image/C4D03AQEOjhQbt0jBJw/profile-displayphoto-shrink_800_800/0?e=1546473600&v=beta&t=DUXqi9mG5uNJDj4RZxFuCkZ2hVzFu4PWoSb6T6eZFyE"  width="120" height="120">
+
+Michele Vitali, [Project leader & Statistics team leader](https://www.linkedin.com/in/michele-vitali-a1341320/)
