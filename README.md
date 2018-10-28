@@ -13,5 +13,8 @@ The group aims to spread useful information about DS and AI, in order to share t
 * Machine Learning Codelab Parma @Fablab, October ‘18
 
 ## Contributors
-![alt text][logo]
-[logo]: https://media.licdn.com/dms/image/C5103AQGt1mF8rwskiQ/profile-displayphoto-shrink_200_200/0?e=1546473600&v=beta&t=RkaXaUDY2Gzs7_yVX7oaV8MopmrRlMSiBmC4ETQ2eoU "Logo Title Text 2"
+
+Luca Fontanili
+![alt text][luca]
+
+[luca]: https://media.licdn.com/dms/image/C5103AQGt1mF8rwskiQ/profile-displayphoto-shrink_200_200/0?e=1546473600&v=beta&t=RkaXaUDY2Gzs7_yVX7oaV8MopmrRlMSiBmC4ETQ2eoU "Luca Fontanili"
