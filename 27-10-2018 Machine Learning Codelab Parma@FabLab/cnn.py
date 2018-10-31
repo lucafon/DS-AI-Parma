@@ -6,7 +6,7 @@ import logging
 logging.basicConfig(level=logging.DEBUG)
 
 
-train1=pd.read_csv('train.csv')
+train1=pd.read_csv('data/train.csv')
 train1.shape
 train1.iloc[0:4, 0:15]
 train=np.asarray(train1.iloc[0:33600,:])
