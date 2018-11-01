@@ -8,9 +8,13 @@ The group aims to spread useful information about DS and AI, in order to share t
 * Telegram: [Data Science and Artificial Intelligence in Parma](https://t.me/joinchat/G1YIUBA4t85VXTZzIwqIOw)
 
 ## Previous events
+<details> 
+  <summary>Show events</summary><p>
+  
 * DS&AI Parma @FabLab, March ‘18
 * DS&AI Parma @Caffeina, July ‘18
 * Machine Learning Codelab Parma @Fablab, October ‘18
+  </p></details>
 
 ## Contributors
 
